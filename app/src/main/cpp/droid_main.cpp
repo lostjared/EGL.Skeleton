@@ -105,7 +105,7 @@ public:
         program.useProgram();
         float aspect = static_cast<float>(w) / static_cast<float>(h);
         glm::mat4 proj = glm::perspective(glm::radians(60.0f), aspect, 1.0f, 100.0f);
-        glm::mat4 view = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, -3.0f));
+        glm::mat4 view = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, -5.0f));
         view = glm::rotate(view, glm::radians(angle), glm::vec3(0.0f, 1.0f, 0.0f));
         angle += 1.0f;
         if (angle > 360.0f)
