@@ -1,0 +1,1 @@
+C:\Users\16194\AndroidStudioProjects\AndroidBlocks\app\src\main\cpp\CMakeLists.txt

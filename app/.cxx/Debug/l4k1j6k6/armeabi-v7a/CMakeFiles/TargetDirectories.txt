@@ -1,0 +1,4 @@
+C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/.cxx/Debug/l4k1j6k6/armeabi-v7a/CMakeFiles/native_app_glue.dir
+C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/.cxx/Debug/l4k1j6k6/armeabi-v7a/CMakeFiles/native-lib.dir
+C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/.cxx/Debug/l4k1j6k6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/.cxx/Debug/l4k1j6k6/armeabi-v7a/CMakeFiles/rebuild_cache.dir

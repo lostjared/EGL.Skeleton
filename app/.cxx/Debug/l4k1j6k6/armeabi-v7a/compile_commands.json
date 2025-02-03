@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/.cxx/Debug/l4k1j6k6/armeabi-v7a",
+  "command": "C:\\Users\\16194\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi28 --sysroot=C:/Users/16194/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/Users/16194/AppData/Local/Android/Sdk/ndk/27.0.12077973/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\native_app_glue.dir\\C_\\Users\\16194\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\sources\\android\\native_app_glue\\android_native_app_glue.c.o -c C:\\Users\\16194\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\sources\\android\\native_app_glue\\android_native_app_glue.c",
+  "file": "C:\\Users\\16194\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\sources\\android\\native_app_glue\\android_native_app_glue.c"
+},
+{
+  "directory": "C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/.cxx/Debug/l4k1j6k6/armeabi-v7a",
+  "command": "C:\\Users\\16194\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi28 --sysroot=C:/Users/16194/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -IC:/Users/16194/AppData/Local/Android/Sdk/ndk/27.0.12077973/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\egl_droid.cpp.o -c C:\\Users\\16194\\AndroidStudioProjects\\AndroidBlocks\\app\\src\\main\\cpp\\egl_droid.cpp",
+  "file": "C:\\Users\\16194\\AndroidStudioProjects\\AndroidBlocks\\app\\src\\main\\cpp\\egl_droid.cpp"
+},
+{
+  "directory": "C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/.cxx/Debug/l4k1j6k6/armeabi-v7a",
+  "command": "C:\\Users\\16194\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi28 --sysroot=C:/Users/16194/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -IC:/Users/16194/AppData/Local/Android/Sdk/ndk/27.0.12077973/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\droid_main.cpp.o -c C:\\Users\\16194\\AndroidStudioProjects\\AndroidBlocks\\app\\src\\main\\cpp\\droid_main.cpp",
+  "file": "C:\\Users\\16194\\AndroidStudioProjects\\AndroidBlocks\\app\\src\\main\\cpp\\droid_main.cpp"
+}
+]

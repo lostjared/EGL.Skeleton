@@ -1,0 +1,12 @@
+# ninja log v5
+1	124	7603030231893106	CMakeFiles/native_app_glue.dir/C_/Users/16194/AppData/Local/Android/Sdk/ndk/27.0.12077973/sources/android/native_app_glue/android_native_app_glue.c.o	c74b489ce17a58f8
+126	202	7603030232621417	libnative_app_glue.a	f2905337c8d1d9c9
+4	906	7603030239704994	CMakeFiles/native-lib.dir/droid_main.cpp.o	d74924fe9be6d6f7
+6	914	7603030239725002	CMakeFiles/native-lib.dir/egl_droid.cpp.o	7b7480b60c6b22b2
+915	1005	7603030240768386	C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/build/intermediates/cxx/Debug/l4k1j6k6/obj/x86/libnative-lib.so	6e87e771794837f5
+9	1229	7603051793992001	CMakeFiles/native-lib.dir/egl_droid.cpp.o	7b7480b60c6b22b2
+6	1433	7603053375562007	CMakeFiles/native-lib.dir/droid_main.cpp.o	d74924fe9be6d6f7
+1434	1558	7603053377374430	C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/build/intermediates/cxx/Debug/l4k1j6k6/obj/x86/libnative-lib.so	6e87e771794837f5
+9	1333	7603061478612731	CMakeFiles/native-lib.dir/droid_main.cpp.o	d74924fe9be6d6f7
+6	1352	7603061478767869	CMakeFiles/native-lib.dir/egl_droid.cpp.o	7b7480b60c6b22b2
+1352	1461	7603061479913496	C:/Users/16194/AndroidStudioProjects/AndroidBlocks/app/build/intermediates/cxx/Debug/l4k1j6k6/obj/x86/libnative-lib.so	6e87e771794837f5
